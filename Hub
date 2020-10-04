@@ -1,1 +1,5 @@
-
+if game.PlaceId == 3255508650 then
+loadstring(game:HttpGet('https://pastebin.com/raw/VRT5f77d'))();
+elseif game.PlaceId == ID2 then
+   -- game 2 script
+end
